@@ -282,6 +282,7 @@ label {
 #input-email {
 	line-height: 2.0em;
 	padding-bottom: 2.0em;
+	font-family: inherit;
 }
 
 input {
@@ -330,6 +331,7 @@ body {
 	background-repeat: no-repeat;	
 	background-size: cover;
 	background-position: center;
+	text-align: center;
 }
 	
 h1 {
@@ -460,6 +462,10 @@ input {
 #input-submit {
 	line-height: 2em;
 	padding-top: 2em;
+}
+#sign-up{
+	text-align: center; 
+	padding-right: 20px; 
 }
 
 [type="checkbox"],
