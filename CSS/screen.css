@@ -251,8 +251,7 @@ input {
 
 body {
 	color: black;
-	text-shadow: 2px 2px;
-	background: url("../media/wood.jpg") fixed; 
+	background: url("../media/wood.jpg"); 
 	background-repeat: no-repeat;	
 	background-size: cover;
 	background-position: center;
