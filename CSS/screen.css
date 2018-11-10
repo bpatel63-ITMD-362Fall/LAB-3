@@ -251,10 +251,11 @@ input {
 
 body {
 	color: black;
-	background: url("../media/wood.jpg"); 
+	background: url("../media/wood.jpg") fixed; 
 	background-repeat: no-repeat;	
 	background-size: cover;
 	background-position: center;
+	text-align: center;
 }
 	
 h1 {
@@ -343,6 +344,7 @@ p {
 	padding-bottom: 1.5em;
 	margin: auto;
 	width: 83%;
+	text-align: center;
 }
 
 html {
