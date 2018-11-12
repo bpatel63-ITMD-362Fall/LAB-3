@@ -468,6 +468,11 @@ input {
 	padding-right: 20px; 
 }
 
+#signup-here{
+	text-align: center; 
+	padding-right: 20px; 
+}
+
 [type="checkbox"],
 [type="radio"] {
   box-sizing: border-box; /* 1 */
